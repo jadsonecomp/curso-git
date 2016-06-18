@@ -21,3 +21,12 @@ git log
 git log --full-diff -p README.md
 ```
 
+## Trabalhando com branchs
+
+```
+# cria uma branch a parttir do hash do commit
+git checkout <commit>
+
+# cria uma branch
+git checkout -b develop
+```
