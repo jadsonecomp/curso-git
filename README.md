@@ -30,3 +30,8 @@ git checkout <commit>
 # cria uma branch
 git checkout -b develop
 ```
+
+## Colaboradores
+```
+Jadson Silva
+```
