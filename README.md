@@ -15,5 +15,9 @@ git add README.md
 
 # Commitar minhas mudanças
 # git commit -m "Nosso primeiro comit"
+
+# visualizar log
+git log
+git log --full-diff -p README.md
 ```
 
