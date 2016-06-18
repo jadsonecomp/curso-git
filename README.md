@@ -30,3 +30,9 @@ git checkout <commit>
 # cria uma branch
 git checkout -b develop
 ```
+
+## Repositório remoto
+```
+git remote add origin https://github.com/jadsonecomp/curso-git
+git push -u origin master
+```
